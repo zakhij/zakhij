@@ -3,12 +3,13 @@
 I got my first taste of programming through my undergraduate studies at USC, and I've been hooked ever since. Building software products that I find interesting and potentially useful. Currently developing an ChatGPT-based plugin for Obsidian (see [here](https://github.com/zakhij/obsidian-highlightaskgpt)). 
 
 
-**Some tools I've worked with**
+**Some tools I've worked with include...**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,fastapi,html,js,mysql,py,ts" />
   </a>
 </p>
+
 
 
 ## Some of my other interests...
