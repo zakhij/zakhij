@@ -9,7 +9,8 @@ I got my first taste of programming through my undergraduate studies at USC, and
 
 ## Connect With Me 🌐
 - **GitHub**: You're already here! Check out my repositories to see what I've worked on. 
-- **LinkedIn**: [Zak Hijaouy](https://www.linkedin.com/in/zakaria-hijaouy-115183172/)
+- **LinkedIn**: [Zak Hijaouy](https://www.linkedin.com/in/zakaria-hijaouy-115183172/).
+
 Don't be a stranger!
 
 <!--
