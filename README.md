@@ -2,10 +2,10 @@
 
 I got my first taste of programming through my undergraduate studies at USC, and I've been hooked ever since. I build software projects that interest me. Currently developing an Obsidian plugin that tacks ChatGPT onto the right-click context menu (see [here](https://github.com/zakhij/obsidian-highlightaskgpt)). 
 
-(Outside of the World of Code) Let's Talk About 🗣️
-- 🏀 **Basketball**
-- 📚 **Reading**
-- 🇫🇷 **French**
+### Some of my other interests...
+- 🧠 **Learning**: Always on the hunt for new knowledge and skills, whether it's tech-related or something else.
+- 🏀 **Basketball**: I'm a huge NBA fan. Go Kings!
+- 📚 **Reading**: Give me your best book rec, fiction or non-fiction.
 
 ## Connect With Me 🌐
 - **GitHub**: You're already here! Check out my repositories to see what I've worked on. 
