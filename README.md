@@ -1,8 +1,8 @@
 # Hi there, I'm Zak! 👋
 
-## I got my first taste of programming through my undergraduate studies at USC, and I've been hooked ever since. I build software projects that interest me. Currently developing an Obsidian plugin that tacks ChatGPT onto the right-click context menu (see [here](https://github.com/zakhij/obsidian-highlightaskgpt)). 
+I got my first taste of programming through my undergraduate studies at USC, and I've been hooked ever since. I build software projects that interest me. Currently developing an Obsidian plugin that tacks ChatGPT onto the right-click context menu (see [here](https://github.com/zakhij/obsidian-highlightaskgpt)). 
 
-## (Outside of the World of Code) Let's Talk About 🗣️
+(Outside of the World of Code) Let's Talk About 🗣️
 - 🏀 **Basketball**
 - 📚 **Reading**
 - 🇫🇷 **French**
