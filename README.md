@@ -1,10 +1,10 @@
 # Hi there, I'm Zak! 👋
 
-I got my first taste of programming through my undergraduate studies at USC, and I've been hooked ever since. I build software projects that interest me. Currently developing an ChatGPT-based plugin for Obsidian (see [here](https://github.com/zakhij/obsidian-highlightaskgpt)). 
+I got my first taste of programming through my undergraduate studies at USC, and I've been hooked ever since. Building software products that I find interesting and potentially useful. Currently developing an ChatGPT-based plugin for Obsidian (see [here](https://github.com/zakhij/obsidian-highlightaskgpt)). 
 
 
-## Some tools I've worked on
-<p align="center">
+**Some tools I've worked with**
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,fastapi,html,js,mysql,py,ts" />
   </a>
